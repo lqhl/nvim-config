@@ -1,4 +1,4 @@
-# 💤 lqhl's LazyVim Config
+# 💤 Qin's LazyVim Config
 
 Customized config for [LazyVim](https://github.com/LazyVim/LazyVim).
 
@@ -31,7 +31,7 @@ rm -r ~/.cache/nvim
 Clone this repo:
 
 ```bash
-git clone git@github.com:lqhl/nvim-config.git ~/.config/nvim
+git clone git@code.byted.org:liuqin.v/nvim-config.git ~/.config/nvim
 ```
 
 Start Neovim!
