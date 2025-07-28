@@ -9,7 +9,7 @@
 -- * disable/enabled LazyVim plugins
 -- * override the configuration of LazyVim plugins
 return {
-  -- add gruvbox
+  -- Add color schema gruvbox
   { "ellisonleao/gruvbox.nvim" },
 
   -- Configure LazyVim to load gruvbox
@@ -20,12 +20,8 @@ return {
     },
   },
 
-  {
-    "ahmedkhalf/project.nvim",
-    opts = {
-      manual_mode = false,
-    },
-  }
+  -- Toggle relative line number automatically
+  { "sitiom/nvim-numbertoggle" }
 
   --[[
   -- change trouble config
