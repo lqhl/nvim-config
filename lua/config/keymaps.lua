@@ -3,6 +3,3 @@
 -- Add any additional keymaps here
 
 local map = vim.keymap.set
-
-map("n", "<S-tab>", "<cmd>bprevious<cr>", { desc = "Prev Buffer" })
-map("n", "<tab>", "<cmd>bnext<cr>", { desc = "Next Buffer" })
