@@ -31,7 +31,7 @@ rm -r ~/.cache/nvim
 Clone this repo:
 
 ```bash
-git clone git@code.byted.org:liuqin.v/nvim-config.git ~/.config/nvim
+git clone https://github.com/lqhl/nvim-config.git ~/.config/nvim
 ```
 
 Start Neovim!
